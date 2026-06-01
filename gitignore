@@ -1,0 +1,12 @@
+# Ignorar carpetas del sistema y configuraciones locales
+AppData/
+Application Data/
+Datos de programa/
+.vs/
+.vscode/
+
+# Si tu proyecto usa Unity (opcional, pero por seguridad)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
